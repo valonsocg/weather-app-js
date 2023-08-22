@@ -1,4 +1,4 @@
-let apiKey = "32001d4ba1cfccc1e41fc5d1aa3699fb";
+let apiKey = "YOUR API KEY GOES HERE";
 let difKelvin = 273.15;
 let ciudad = "Londres";
 let urlBase = "https://api.openweathermap.org/data/2.5/weather";
